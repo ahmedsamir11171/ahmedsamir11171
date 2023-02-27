@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, my name is Ahmed Samir
 #### Software Engineering Backend Developer
