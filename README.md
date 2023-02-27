@@ -7,10 +7,10 @@ I work as a back-end developer with php
 I am currently working as a freelancer on more than one site, such as a Mostaql Upwork 
 
 Project :
-* alrefaielawyer.com
+* http://alrefaielawyer.com/
 * https://kfaat.tech/
 * https://se.kfaat.tech/
-* events.alrefaielawyer.com
+* http://events.alrefaielawyer.com/
 * http://gfoura.com/public/en
 *https://events2.alrefaielawyer.com/public/bootstrap
 
@@ -22,5 +22,5 @@ Skills: PHP/Node js/ Laravel /Datebase SQL /Bootstrap / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-2a560b259//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100077832366194)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](01096312326)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-2a560b259//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100077832366194)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='20'>](01096312326)  
 
